@@ -32,6 +32,8 @@
   },
   "homepage": "https://github.com/UsabilityDynamics/coreos-broker",
   "dependencies": {
+    "async": "^0.9.0",
+    "docker-links": "^1.0.1",
     "findup-sync": "^0.1.3",
     "generate-key": "0.0.6",
     "lodash": "^2.4.1",
