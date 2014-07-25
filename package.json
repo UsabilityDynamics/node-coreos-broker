@@ -1,5 +1,5 @@
 {
-  "name": "coreos--broker",
+  "name": "coreos-broker",
   "version": "0.0.1",
   "description": "Manage CoreOS events.",
   "main": "lib/coreos-broker.js",
