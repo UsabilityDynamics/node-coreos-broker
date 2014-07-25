@@ -11,7 +11,9 @@
     "url": "https://github.com/UsabilityDynamics/node-coreos-broker.git"
   },
   "bin": {
-    "veneer": "./bin/coreos-broker.js"
+    "broker": "./bin/coreos-broker.js",
+    "stoptBroker": "./bin/coreos-broker.js",
+    "startBroker": "./bin/coreos-broker.js"
   },
   "directories": {
     "doc": "static/codex",
